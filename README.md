@@ -3,9 +3,7 @@
 </p>
 
 <h1> Network File Shares and Permissions </h1>
-This tutorial will cover how network file shares work and how to manage permissions. Network file shares enable multiple users or devices to accesss files stored on a central server over a network. Permissions allow you to control who can read, write, or modify those files, ensuring only authorized users can perform specific actions like viewing, editing, or deleting them.
-
-
+In this tutorial, I will explain how to create sample file shares with different permission levels, including Read and Read/Write. I will also guide you through the process of creating a security group, assigning specific permissions to it, and testing access to ensure everything works correctly. This step-by-step approach will help you efficiently manage file sharing and access controls.
 
 
 <h2>Environments and Technologies Used</h2>
