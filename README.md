@@ -208,7 +208,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-<h2> Step 7: Sign out of Client-1 as fas.tacos. Add fas.tacos as part of the Security Group Accountants  </h2>
+<h2> Step 7: Sign out of Client-1 as fas.tacos. Add fas.tacos as a member of the Security Group Accountants  </h2>
 
 ---------
 
