@@ -110,7 +110,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 -------
 
-- Domain Admins only have Access to the No access folder
+- Domain Admins only have Access to the No Access Folder, Domain Users Can't access the No Access Folder
 
 --------
 
