@@ -220,7 +220,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-- Add the Security Group Accountants to the Accountants folder and Assign the Accountants folder the Read/Write permission level
+- Add the Security Group Accountants to the Accounting folder and Assign the Accounting folder the Read/Write permission level
 
 ----------
 
