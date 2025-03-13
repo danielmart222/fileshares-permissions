@@ -31,7 +31,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----
 
-![image](https://github.com/user-attachments/assets/cf103185-4baf-4c5d-80aa-4fa7002b7692)
+![image](https://github.com/user-attachments/assets/570a22fd-d2b3-49c2-93bf-325a99735e18)
+
 
 ---------
 
@@ -41,7 +42,8 @@ In this tutorial, I will explain how to create sample file shares with different
 -------
 
 
-![image](https://github.com/user-attachments/assets/8f36e3e0-b21a-4955-9266-e0addca2d596)
+![image](https://github.com/user-attachments/assets/05a63aa3-fbc2-4407-9ba5-5345ae26f094)
+
 
 ----------
 
@@ -49,12 +51,13 @@ In this tutorial, I will explain how to create sample file shares with different
 
 -----
 
-- Right click the Read Access folder -> Click on properties -> Click on sharing -> Share -> Type: domain users -> Click on Add -> Assign the Read Access folder  the Read Permission -> Click on share -> done
+- Right click the Read Access folder -> Click on properties -> Click on sharing -> Share -> Type: domain users -> Click on Add -> Assign the Read Access folder  the Read Permission level -> Click on share -> done
 
 ------
 
 
-![image](https://github.com/user-attachments/assets/79b0f039-66cf-4c64-a900-2ad295005996)
+![image](https://github.com/user-attachments/assets/c1a41fd5-ed7d-4bbc-83a2-9497ecaea3f5)
+
 
 
 -----------
@@ -63,7 +66,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ------
 
-![image](https://github.com/user-attachments/assets/8b3463e6-b605-47a4-a3d3-e0b57a23c04f)
+![image](https://github.com/user-attachments/assets/f48248f3-ab14-494d-9c7a-cfbbaa809578)
+
 
 ---------
 
@@ -72,7 +76,8 @@ In this tutorial, I will explain how to create sample file shares with different
 ---------
 
 
-![image](https://github.com/user-attachments/assets/82e526ed-7ffb-4193-ad18-eae7c114ac65)
+![image](https://github.com/user-attachments/assets/3e2c3a69-9a82-421d-81e8-ef05db9cdb20)
+
 
 -------
 
@@ -91,7 +96,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-![image](https://github.com/user-attachments/assets/3fe0b988-2776-4755-a4ca-9e86c06eb366)
+![image](https://github.com/user-attachments/assets/c4d15ca0-c877-4593-97d5-20519961e458)
+
 
 --------
 
@@ -103,7 +109,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 -------
 
-![image](https://github.com/user-attachments/assets/cf081e90-06de-4336-85b1-8ef29fba0b71)
+![image](https://github.com/user-attachments/assets/dd3afc6d-c101-4a68-917b-5e6db5ac96f8)
+
 
 
 --------
@@ -116,7 +123,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-![image](https://github.com/user-attachments/assets/759b69f3-726a-4cb3-819f-ef082d78af69)
+![image](https://github.com/user-attachments/assets/a9056554-ae0c-46ca-8767-d4b1a3d1c288)
+
 
 
 -------
@@ -130,12 +138,14 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-![image](https://github.com/user-attachments/assets/f29eb3ab-311f-4399-9abf-2620cb817861)
+![image](https://github.com/user-attachments/assets/7209e057-d071-46e6-ba98-779b369c11c6)
+
 
 
 ----------
 
-![image](https://github.com/user-attachments/assets/f3fce59d-8162-4ef6-8c32-b168df3debe1)
+![image](https://github.com/user-attachments/assets/895571e4-e92d-428f-a011-90eaa69b2a2a)
+
 
 
 -------
@@ -145,8 +155,8 @@ In this tutorial, I will explain how to create sample file shares with different
 ----------
 
 
+![image](https://github.com/user-attachments/assets/3b2ece54-58a2-4d08-8663-0dffe5fb6264)
 
-![image](https://github.com/user-attachments/assets/c732a985-4351-4a04-88ba-362219ed5cb4)
 
 --------
 
@@ -159,7 +169,9 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-![image](https://github.com/user-attachments/assets/d82afce3-fb1d-4d16-aafb-ab938df2c34f)
+
+![image](https://github.com/user-attachments/assets/51489071-d5b9-412d-b827-48b34b296481)
+
 
 
 ----------
@@ -168,7 +180,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----------
 
-![image](https://github.com/user-attachments/assets/4b6b2e07-a076-41b0-876f-93bf3c39f8fe)
+![image](https://github.com/user-attachments/assets/071fc2f3-2521-45ec-a12f-6e8c8e7e05b7)
+
 
 ------------
 
@@ -176,7 +189,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----------
 
-![image](https://github.com/user-attachments/assets/71a617f0-1f13-4d2b-af5e-16a253e56b2f)
+![image](https://github.com/user-attachments/assets/b1cb4bdf-579e-47ca-bea1-141638086b87)
 
 
 ---------
@@ -186,8 +199,7 @@ In this tutorial, I will explain how to create sample file shares with different
 -----------
 
 
-![image](https://github.com/user-attachments/assets/58a0d105-e719-438d-9a05-951c55002824)
-
+![image](https://github.com/user-attachments/assets/e057b2a7-07a5-42ca-89b3-d822d1769aff)
 
 
 ---------
@@ -196,7 +208,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----------
 
-![image](https://github.com/user-attachments/assets/cad9b41f-d9b8-4523-be2f-6d06786b2405)
+![image](https://github.com/user-attachments/assets/a3829b7a-9e0f-4a5c-8999-477b0d43372e)
 
 -----------
 
@@ -204,7 +216,8 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----------
 
-![image](https://github.com/user-attachments/assets/62c501c9-238f-4120-af4a-1b830386b866)
+![image](https://github.com/user-attachments/assets/61d14601-172c-443b-a4a8-0a1f5dcfe501)
+
 
 ---------
 
