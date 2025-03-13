@@ -82,7 +82,7 @@ In this tutorial, I will explain how to create sample file shares with different
 -------
 
 
-<h2> Step 4: Log into Client-1 as fas.tacos  </h2>
+<h2> Step 4: Log into Client-1 as the Domain User fas.tacos  </h2>
 
 ------
 
