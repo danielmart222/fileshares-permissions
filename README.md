@@ -177,7 +177,12 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ----------
 
-- Click the Start menu -> go to Windows Administrative Tools -> choose Active Directory Users and Computers -> Create a new OU called _GROUPS -> Right Click Mydomain.com-> New -> Organizational Unit ->
+- Create An OU Called _GROUPS
+
+----------
+
+
+- Click the Start menu -> go to Windows Administrative Tools -> choose Active Directory Users and Computers -> Create a new OU called _GROUPS -> Right Click Mydomain.com-> New -> Organizational Unit -> Name it: _GROUPS
 
 ---------
 
@@ -187,6 +192,10 @@ In this tutorial, I will explain how to create sample file shares with different
 
 
 ----------
+
+- Create A Security Group called Accountants
+
+-----------
 
 - Right click on the OU _Groups -> New -> Group ->
 
@@ -205,6 +214,10 @@ In this tutorial, I will explain how to create sample file shares with different
 
 
 ---------
+
+- Assign the Accountants folder the Read/Write permission level
+
+----------
 
 - Next go to File Explorer -> C-Drive -> Right-click the Accounting Folder -> Properties -> Sharing -> Share -> Type: Accountants -> Click on Add -> Assign the permission level (read/write) -> share -> done
 
