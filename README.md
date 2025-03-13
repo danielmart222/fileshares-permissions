@@ -248,7 +248,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ------------
 
-- Open file explorer (Windows key + E) -> In the search bar Type: \\DC-1 -> Attempt to log into the Accounting folder as fas.tacos -> Create a Text Document
+- Open file explorer (Windows key + E) -> In the search bar Type: \ \DC-1 -> Attempt to log into the Accounting folder as fas.tacos -> Create a Text Document
 
 ------------
 
