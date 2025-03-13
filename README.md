@@ -103,6 +103,10 @@ In this tutorial, I will explain how to create sample file shares with different
 
 - Try to access and open the folders -> Attempt to create a text file and write something in it -> Save
 
+-------
+
+- Domain Admins only have Access to the No access folder
+
 --------
 
 - No access folder
@@ -119,6 +123,10 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
+- Domain Uers only have Read Access to the Read Access Folder
+
+---------
+
 - Try to Create a Text Document
 
 ---------
@@ -130,6 +138,10 @@ In this tutorial, I will explain how to create sample file shares with different
 -------
 
 - Write Access Folder
+
+-------
+
+- Domain Users are able to Access and edit in the Write Access Folder
 
 
 ---------
