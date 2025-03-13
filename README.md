@@ -128,7 +128,7 @@ In this tutorial, I will explain how to create sample file shares with different
 
 ---------
 
-- Domain Users only have Read Access to the Read Access Folder
+- Domain Users only have Read Access to the Read Access Folder, they are not able to edit Files
 
 ---------
 
