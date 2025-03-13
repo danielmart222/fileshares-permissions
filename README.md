@@ -244,6 +244,10 @@ In this tutorial, I will explain how to create sample file shares with different
 
 - Attempt to log into the Accounting folder as fas.tacos
 
+--------
+
+- Only Members of the Security Group Accountants have Access to the Accounting Folder
+
 ----------
 
 ![image](https://github.com/user-attachments/assets/61d14601-172c-443b-a4a8-0a1f5dcfe501)
@@ -279,6 +283,10 @@ In this tutorial, I will explain how to create sample file shares with different
 ------------
 
 - Open file explorer (Windows key + E) -> In the search bar Type: \ \DC-1 -> Attempt to log into the Accounting folder as fas.tacos -> Create a Text Document
+
+---------
+
+- fas.tacos is now part of the Security Group Accountants and can now access the Accounting Folder
 
 ------------
 
