@@ -91,6 +91,11 @@ In this tutorial, I will explain how to create sample file shares with different
 
 --------
 
+- Search for the Shared Files
+
+---------
+
+
 - Open file explorer (Windows key + E) -> In the search bar Type: \ \DC-1 ->
 
 
